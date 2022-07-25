@@ -1,0 +1,1 @@
+# the project shifoumi is a rock-paper-scissor game built in javascript to level up my skill in js webdevelopment.
